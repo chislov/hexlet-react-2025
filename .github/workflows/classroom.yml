@@ -21,3 +21,4 @@ jobs:
         with:
           node-version: 22
           cache: 'npm'
+      - uses: education/autograding@v1
